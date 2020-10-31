@@ -1,5 +1,6 @@
 # cuda
 Repository that contain parallel programs in cuda 
+The program search for the presence of a pattern within an image
 
 it is work with Nvidia Cuda Toolkit v10.2, Visual Studio community 2019 , C++,Windows Server 2019 Datacenter.
 
